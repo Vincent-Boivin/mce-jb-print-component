@@ -3,17 +3,14 @@
   "name": "Courrier",
   "description": "Canal courrier",
   "metaData": {
-    "icon": "images/icon.svg",
+    "icon": "icon-courrier.png",
     "category": "Message"
   },
   "type": "REST",
   "lang": {
-    "en-US": {
-      "name": "Localized Custom Activity Name",
-      "description": "Localized Custom Activity Description",
-      "label1": "Localized Step 1",
-      "label2": "Localized Step 2",
-      "label3": "Localized Step 3"
+    "fr-FR": {
+      "name": "Courrier",
+      "description": "Génération d'un fichier de routage"
     }
   },
   "arguments": {
