@@ -3,7 +3,7 @@
   "name": "Courrier",
   "description": "Canal courrier",
   "metaData": {
-    "icon": "icon-courrier.png",
+    "icon": "images/icon-courrier.png",
     "category": "Message"
   },
   "type": "REST",
