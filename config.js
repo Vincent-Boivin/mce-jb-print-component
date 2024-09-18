@@ -8,12 +8,12 @@
   },
   "type": "REST",
   "lang": {
-    "fr-FR": {
-      "name": "Courrier",
-      "description": "Génération d'un fichier de routage"
+    "en-US": {
+      "name": "REST Activity (Workflow API v1.1)",
+      "description": "An example REST activity using workflow API v1.1 format."
     }
   },
-"arguments": {
+  "arguments": {
     "execute": {
       "inArguments": [
         {
