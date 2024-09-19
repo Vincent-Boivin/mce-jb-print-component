@@ -33,16 +33,16 @@
   },
   "configurationArguments": {
     "save": {
-      "url": "URI/for/your/activity/save"
+      "url": "https://vincent-boivin.github.io/mce-jb-print-component/save"
     },
     "publish": {
-      "url": "URI/for/your/activity/publish"
+      "url": "https://vincent-boivin.github.io/mce-jb-print-component/publish"
     },
     "validate": {
-      "url": "URI/for/your/activity/validate"
+      "url": "https://vincent-boivin.github.io/mce-jb-print-component/validate"
     },
     "stop": {
-      "url": "URI/for/your/activity/stop"
+      "url": "https://vincent-boivin.github.io/mce-jb-print-component/stop"
     }
   },
   "wizardSteps": [
